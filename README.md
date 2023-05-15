@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiddhanthHegde
 - 👀 I’m interested in Data Science, Machine Learning and Computer Vision
-- 🌱 I’m currently a Graduate Research Assistant at O'Neill School of Public and Environmental Affairs
+- 🌱 I’m currently working as AI Intern at Dana Farber Cancer Institute - Harvard University
 - 💞️ I’m looking to collaborate on Data Science related projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/siddhanthhegde/) [Email: siddhanthhegde227@gmail.com](mailto:siddhanthhegde227@gmail.com)
 
